@@ -1,0 +1,6 @@
+I kursmappen "Introduktion till modern utvecklarroll" skapade jag mappen "tomas-intro" med kommandot "mkdir tomas-intro".
+Jag gick in i mappen med "cd tomas-intro".
+pwd visade att jag var i rätt mapp.
+"touch mina-bash-kommandon.txt" skapade filen "mina-bash-kommandon.txt".
+ls visade att filen hade skapats.
+Efter att jag skrivit den här texten och sparat filen, kommer jag att använda "cat mina-bash-kommandon.txt" för att visa innehållet i terminalen.
