@@ -4,7 +4,6 @@
 >
 >Om någon ändring inte fungerar önskvärt, tar man bort de *commits* som innehåller ändringen före deployment. Utan repository kan det bli ett väldigt pilligt och tidskrävande arbete med stor risk för misstag och nya buggar.
 
----
 ### Sammanfattning
 - Alla använder samma kodbas
 - Var och en jobbar ostört med sina ändringar
