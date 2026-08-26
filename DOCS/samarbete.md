@@ -1,0 +1,2 @@
+# Gemensamt repository i utvecklingsteam
+Ett utvecklingsteam använder ett repository så att alla jobbar mot samma kodbas utan att deras arbete krockar, i var sin *branch*. Var och en kan jobba ostört i sin egen *branch* utan att påverkas av de andras tillfälliga buggar under utvecklingen. När de är färdiga med sina ändringar *mergas* *branchen* in till en gemensam *branch* för testning, så att de olika ändringarna fungerar tillsammans innan deployment.
